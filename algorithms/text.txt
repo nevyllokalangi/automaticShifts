@@ -1,0 +1,4 @@
+Two algorithms to use:
+1) Maximum Flow(Ford-Fulkerson)
+2) Greedy Algorithm
+
