@@ -2,3 +2,8 @@ Two algorithms to use:
 1) Maximum Flow(Ford-Fulkerson)
 2) Greedy Algorithm
 
+Parameters or Inputs:
+1) m: staff
+2) n: days
+3) ai: minimum number of staff needed in a day 
+4) k: days off for a staff
